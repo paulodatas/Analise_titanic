@@ -12,6 +12,7 @@ Você pode acompanhar essa base de dados pública no site https://www.kaggle.com
 * Gráficos Databricks
 
 ## Documentação SQL com alguns gráficos
+Você pode ter uma melhor vizualização neste link file:///C:/Users/Paulo%20Henrique/Downloads/analise-titanic%20(1).html
 [Ver documentação](https://github.com/paulodatas/Analise_titanic/blob/main/titanic.md)
 
 ## Alguns Insights 
