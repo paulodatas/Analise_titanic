@@ -1,7 +1,4 @@
 
-## Introdução
-Este projeto foi realizado para fazer uma análise exploratória sobre o naufrágil do Titanic ocorrido entre 14 e 15 de abril de 1912, após o mesmo colidir com um iceberg causando a morte de 1502 pessoas de um total de 2224 passageiros..
-
 <strong>Explicação das colunas</strong>
 <br>
 * <strong> Passengerird:</strong> Identificador único para cada passageiro;
